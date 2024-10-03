@@ -1,0 +1,28 @@
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border: 6px solid white;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(43, 144, 226);
+    margin-top: 20px;
+}
+
+span{
+    color: white;
+    font-size: 30px;
+}
+
+input{
+    padding-inline: 20px;
+    padding-block: 10px;
+}
+
+.saida{
+    color: white;
+    font-size: 30px;
+}
